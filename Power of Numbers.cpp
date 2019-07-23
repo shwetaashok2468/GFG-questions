@@ -1,3 +1,14 @@
+
+Given a number N, let the reverse of the number be R. The task is to print the output of the Expression pow(N,R), where pow function represents N raised to power R.
+Note: As answers can be very large, print the result modulo 1000000007.
+
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 const unsigned int d=1000000007;
