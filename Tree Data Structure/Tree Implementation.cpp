@@ -1,3 +1,10 @@
+//Fuctions for Insertion,Findmin,findmax,Height,Search,Preorder traversal,postorder traversal,inorder traversal,is BST,is balanced
+
+
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
