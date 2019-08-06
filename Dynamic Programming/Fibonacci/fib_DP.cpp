@@ -31,8 +31,11 @@ int main()
      int fib[100000];
      int n;
  
-    fibonacci(100,fib);//prepared the fibonacci series of 100 elements in o(n) 
-       cout<<fib[16]<<" ";//printing nth fib number in o(1)
+    fibonacci(100,fib);//prepared the fibonacci series of 100 elements in o(n)
+	
+	
+	for(int i=0; i<1000; i++) 
+       cout<<fib[i]<<" ";//printing nth fib number in o(1)
   
     return 0;
 }
